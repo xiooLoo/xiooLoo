@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![xiooLoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiooLoo&show_icons=true&theme=highcontrast)
+[![xiooLoo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiooLoo&custom_title=我的贡献度&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![xiooLoo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiooLoo)](https://github.com/anuraghazra/github-readme-stats)
